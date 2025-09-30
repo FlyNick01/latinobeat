@@ -14,7 +14,7 @@ const ScheduleSection = () => {
       ]
     },
     {
-      day: 'Tuesday', 
+      day: 'Wednesday', 
       dance: 'Bachata',
       times: [
         { time: '20:45', activity: 'Pre-party' },
