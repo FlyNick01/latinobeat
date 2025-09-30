@@ -124,7 +124,7 @@ const ContactSectionHe = () => {
           <div className="text-center bg-card border border-border rounded-xl p-4 md:p-8">
             <h3 className="text-lg md:text-2xl font-semibold mb-4 text-foreground">מוכנים להתחיל לרקוד?</h3>
             <p className="text-muted-foreground mb-6 max-w-2xl mx-auto text-sm md:text-base leading-relaxed">
-              הצטרפו למئות רקדנים שכבר גילו את השמחה של ריקוד לטיני בLATINO BEAT. 
+              הצטרפו למאות רקדנים שכבר גילו את השמחה של הריקוד הלטיני בLATINO BEAT.
               הרשמו דרך וואטסאפ והצטרפו אלינו לשיעורים ולמסיבות!
             </p>
             <Button 
