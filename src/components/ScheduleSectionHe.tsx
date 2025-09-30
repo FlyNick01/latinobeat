@@ -14,7 +14,7 @@ const ScheduleSectionHe = () => {
       ]
     },
     {
-      day: 'יום שלישי', 
+      day: 'יום רביעי', 
       dance: 'בצ\'טה',
       times: [
         { time: '20:45', activity: 'פרה-פארטי' },
