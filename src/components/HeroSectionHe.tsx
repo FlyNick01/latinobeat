@@ -44,7 +44,7 @@ const HeroSectionHe = () => {
 
           <div className="flex items-center justify-center gap-2 text-lg fade-in-up opacity-90">
             <MapPin className="w-5 h-5" />
-            <span>בית הסטודנט טכניון • ימי ראשון ושלישי</span>
+            <span>בית הסטודנט טכניון • ימי ראשון ורביעי</span>
           </div>
         </div>
       </div>
