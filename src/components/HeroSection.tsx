@@ -44,7 +44,7 @@ const HeroSection = () => {
 
           <div className="flex items-center justify-center gap-2 text-lg fade-in-up opacity-90">
             <MapPin className="w-5 h-5" />
-            <span>Technion Student Union • Sundays & Tuesdays</span>
+            <span>Technion Student Union • Sundays & Wednesdays</span>
           </div>
         </div>
       </div>
