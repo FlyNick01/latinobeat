@@ -27,7 +27,7 @@ const HeroSectionHe = () => {
           </h1>
           
           <p className="text-xl md:text-2xl mb-8 slide-in-left opacity-90 max-w-2xl mx-auto">
-            גלו את התשוקה של הסלסה והבצ'טה בלב חיפה. 
+            גלו את התשוקה של הסלסה והבצ'אטה בלב חיפה. 
             הצטרפו לקהילה התוססת שלנו בה מחול פוגש נשמה.
           </p>
 
