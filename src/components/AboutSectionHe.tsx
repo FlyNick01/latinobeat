@@ -29,8 +29,8 @@ const AboutSectionHe = () => {
           </h2>
           
           <p className="text-xl text-muted-foreground mb-16 leading-relaxed">
-            Latino Beat הוא לא רק בית ספר לריקוד - זה בית שני. כאן, בלב חיפה, יצרנו מקום בו תשוקה פוגשת קהילה, 
-            ובו כל צעד מספר סיפור. בין אם אתם מתחילים או רקדנים מנוסים, תמצאו כאן את הבית שלכם על הפרקט.
+            לטינוביט הוא לא רק בית ספר לריקוד - זה בית שני. כאן, בלב חיפה, יצרנו מקום בו תשוקה פוגשת קהילה, 
+            ובו כל צעד מספר סיפור. בין אם אתם מתחילים או רקדנים מנוסים, תמצאו כאן את הבית שלכם על הרחבה.
           </p>
 
           <div className="grid md:grid-cols-3 gap-8">
@@ -48,7 +48,7 @@ const AboutSectionHe = () => {
           <div className="mt-16 p-8 rounded-xl bg-latin-warm/10 border border-latin-warm/20">
             <h3 className="text-2xl font-semibold mb-4 text-foreground">הפילוסופיה שלנו</h3>
             <p className="text-lg text-muted-foreground leading-relaxed">
-              אנחנו מאמינים שריקוד הוא שפה אוניברסלית שמחברת בין לבבות. בLatino Beat, אנחנו לא רק מלמדים צעדים - 
+              אנחנו מאמינים שריקוד הוא שפה אוניברסלית שמחברת בין לבבות. בלטינוביט, אנחנו לא רק מלמדים צעדים - 
               אנחנו מעבירים תרבות, בונים ביטחון עצמי ויוצרים זיכרונות שיחזיקו מעמד לכל החיים.
             </p>
           </div>
