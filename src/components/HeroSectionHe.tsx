@@ -19,7 +19,7 @@ const HeroSectionHe = () => {
 
       <div className="container mx-auto px-4 text-center text-white relative z-10">
         <div className="max-w-4xl mx-auto">
-          <h1 class="visually-hidden">שיעורי בצ'אטה סלסה בחיפה - בית ספר ומועדון ריקודים לטיניים לטינוביט - שיעורים מסיבות</h1>
+          <h1 class="visually-hidden">שיעורי בצ'אטה בצאטה בצטה בצ'טה סלסה בחיפה חיפה צפון ישראל - בית ספר מועדון ריקודים לטיניים לטינוביט לטינו ביט - שיעורים מסיבות</h1>
           <h1 className="text-5xl md:text-7xl font-bold mb-6 slide-in-right">
             הרגישו את
             <span className="block font-dancing text-6xl md:text-8xl text-latin-gold">
