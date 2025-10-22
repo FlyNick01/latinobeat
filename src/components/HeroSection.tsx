@@ -19,7 +19,7 @@ const HeroSection = () => {
 
       <div className="container mx-auto px-4 text-center text-white relative z-10">
         <div className="max-w-4xl mx-auto">
-          <h1 class="visually-hidden">Bachata & Salsa Classes in Haifa – Latino Beat Dance School and Club</h1>
+          <h1 class="visually-hidden">Bachata & Salsa Classes and Parties in Haifa North Israel – Latino Beat Dance School and Club</h1>
           <h1 className="text-5xl md:text-7xl font-bold mb-6 slide-in-left">
             Feel the
             <span className="block font-dancing text-6xl md:text-8xl text-latin-gold">
