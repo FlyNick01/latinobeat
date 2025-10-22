@@ -8,16 +8,16 @@ const ScheduleSectionHe = () => {
       day: 'יום ראשון',
       dance: 'סלסה',
       times: [
-        { time: '20:45', activity: 'פרה-פארטי' },
+        { time: '20:45', activity: 'קדם מסיבה' },
         { time: '21:15', activity: 'חימום ושיעורים לפי רמות' },
         { time: '22:00', activity: 'תחילת המסיבה' }
       ]
     },
     {
       day: 'יום רביעי', 
-      dance: 'בצ\'טה',
+      dance: 'בצ\'אטה',
       times: [
-        { time: '20:45', activity: 'פרה-פארטי' },
+        { time: '20:45', activity: 'קדם מסיבה' },
         { time: '21:15', activity: 'חימום ושיעורים לפי רמות' },
         { time: '22:00', activity: 'תחילת המסיבה' }
       ]
