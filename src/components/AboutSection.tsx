@@ -60,8 +60,7 @@ const AboutSection = () => {
             <h3 className="text-2xl md:text-3xl font-semibold mb-4 text-foreground">
               Why Choose Latino Beat?
             </h3>
-            <p className="text-lg text-muted-foreground mb-6 max-w-2xl mx-auto">
-              Our instructors bring authentic Latin dance experience from across Latin America. 
+            <p className="text-lg text-muted-foreground mb-6 max-w-2xl mx-auto"> 
               We focus on technique, musicality, and most importantly - having fun while building 
               lasting connections in our dance community.
             </p>
